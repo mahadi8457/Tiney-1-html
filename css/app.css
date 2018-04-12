@@ -1,0 +1,102 @@
+@import url(../css/normalize.css);
+@import url(../css/main.css);
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333; }
+
+a {
+  text-decoration: none; }
+
+ul, li {
+  list-style: none;
+  padding: 0; }
+
+header {
+  background: #fcdb00;
+  height: 741px;
+  width: 100%; }
+
+.container {
+  padding: 20px 10%; }
+
+.top-left {
+  float: left; }
+
+.top-right {
+  float: left;
+  overflow: hidden; }
+
+.logo {
+  width: 50%; }
+
+.menu {
+  width: 50%; }
+
+.menu ul li a {
+  font: Helvetica, sans-serif;
+  color: #000;
+  font-weight: 600; }
+
+.menu ul li {
+  display: inline-block;
+  padding: 0 25px; }
+
+.header-bottom {
+  margin-top: 30px !important; }
+
+.header-bottom h1 {
+  text-size: 800;
+  text-align: left; }
+
+.header-bottom h3 {
+  font-weight: lighter;
+  text-align: left;
+  word-spacing: 3px;
+  max-width: 320px; }
+
+.header-bottom p {
+  font-weight: lighter;
+  text-align: left;
+  max-width: 410px; }
+
+.bottom-left {
+  width: 50%;
+  float: left;
+  margin-top: 10%; }
+
+.bottom-right {
+  width: 50%;
+  overflow: hidden; }
+
+.bottom-left ul {
+  margin-top: 20px; }
+
+.bottom-left ul li {
+  display: inline;
+  padding: 10px;
+  margin-top: 5px; }
+
+.text {
+  width: 80%;
+  overflow: hidden; }
+
+.text-center {
+  text-align: center; }
+
+.cards {
+  width: 33%;
+  float: left; }
+
+.icon {
+  width: 15%;
+  float: left;
+  margin-top: 25px; }
+
+.top-bottom-pad {
+  padding-top: 35px;
+  padding-bottom: 30px; }
+
+.email {
+  position: absolite; }
+
+/*# sourceMappingURL=app.css.map */
